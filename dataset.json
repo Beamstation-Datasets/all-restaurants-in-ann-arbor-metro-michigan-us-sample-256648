@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Ann Arbor (Metro), Michigan metro, covering Ann Arbor. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Ann Arbor (Metro), Michigan, US",
+  "export_job_id": "1b3de889-4755-4f59-88a8-8050c1ec4010",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 256648,
+  "location_name": "Ann Arbor, MI",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-ann-arbor-metro-michigan-us-sample-256648",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/256648/beamstation_256648_restaurants-us-annarbormi_SAMPLE_DIST.csv",
+  "sample_pct": 9.89,
+  "sample_records": 71,
+  "sample_sha256": "9ce4e8fb6056acdd889993e048e95c4ffeffd8d4d76e7925b296d6af072a273e",
+  "sample_size_bytes": 282041,
+  "total_records": 718,
+  "updated_at": "2026-04-09T09:35:52.008958+00:00"
+}

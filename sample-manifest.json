@@ -1,12 +1,12 @@
 {
-  "export_job_id": "02adc676-8eed-4df5-a627-1f5a794eb958",
+  "export_job_id": "946ccb91-2bc0-4550-bfe8-69c1efd7e2b2",
   "id_short": 256648,
-  "published_at": "2026-04-23T19:13:35Z",
+  "published_at": "2026-04-30T19:06:52Z",
   "repo_name": "all-restaurants-in-ann-arbor-metro-michigan-us-sample-256648",
   "sample_asset_name": "beamstation_256648_restaurants-us-annarbormi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/256648/beamstation_256648_restaurants-us-annarbormi_SAMPLE_DIST.csv",
-  "sample_records": 59,
-  "sample_sha256": "b55f9886978e722d8e89ff8751e04a57dcb3a0b66cabe735b6650e0b39bbec8a",
-  "sample_size_bytes": 222413,
-  "total_records": 594
+  "sample_records": 71,
+  "sample_sha256": "3b102ab80615e78a81bf9ebf8fc1ae8e17ccaf66b6003b3c525f9b5b3f69232f",
+  "sample_size_bytes": 259327,
+  "total_records": 712
 }

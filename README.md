@@ -1,6 +1,6 @@
 # All Restaurants in Ann Arbor (Metro), Michigan, US
 
-> Free BeamStation sample export with 59 rows and masked direct-contact fields.
+> Free BeamStation sample export with 71 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `256648` |
 | Location | Ann Arbor, MI |
 | Category | Restaurants |
-| Full dataset size | 594 records |
-| Free sample size | 59 records (9.93%) |
-| Last export | 2026-04-23T09:30:02.267063+00:00 |
+| Full dataset size | 712 records |
+| Free sample size | 71 records (9.97%) |
+| Last export | 2026-04-30T09:33:08.273050+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-ann-arbor-metro-michigan-us-sample-256648/releases/download/sample-latest/beamstation_256648_restaurants-us-annarbormi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
